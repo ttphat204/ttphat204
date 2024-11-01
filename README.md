@@ -59,7 +59,7 @@
 </a>
 
 <a href="https://www.adobe.com/products/illustrator.html" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/illustrator/illustrator-original.svg" alt="illustrator" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/8f/Adobe_Illustrator_CC_icon.svg" alt="illustrator" width="40" height="40"/>
 </a>
 <!--   <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
     <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/>
