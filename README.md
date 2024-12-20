@@ -1,3 +1,5 @@
+---
+
 # 🌟 About Me
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ttphat204&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
@@ -6,17 +8,13 @@
 - 🎯 My goal is to become a skilled **Software Developer** who builds innovative and impactful solutions.
 - 🔭 Currently exploring **Next.js, GSAP, Three.js, and Redis**.
 - 📫 Reach me at **trantanphat08012004@gmail.com**.
-Thank you for reading !!!
----
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Hi+I'm+Tấn+Phát;I'm+a+passionate+Frontend+Developer+from+Vietnam;Turning+coffee+into+code+one+bug+at+a+time;Building inspiring digital experiences." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Hi+I'm+Tấn+Phát;I'm+a+passionate+Frontend+Developer+from+Vietnam;Turning+coffee+into+code+one+bug+at+a+time;Building+inspiring+digital+experiences." alt="Typing SVG" />
 </p>
 
-
-
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnE5Yjl1aXkzc3UydGJvNXd5OTg1ZzEwNW5nbjh1ZmtuaGJkbHhuYyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/2IudUHdI075HL02Pkk/giphy.gif" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnE5Yjl1aXkzc3UydGJvNXd5OTg1ZzEwNW5nbjh1ZmtuaGJkbHhuYyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/2IudUHdI075HL02Pkk/giphy.gif" alt="Coding" />
 </p>
 
 ---
@@ -61,10 +59,6 @@ Thank you for reading !!!
   <img src="https://skillicons.dev/icons?i=npm,yarn" alt="Package Managers" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ttphat204&layout=compact&theme=radical" alt="Most Used Languages" />
-</p>
-
 ---
 
 ## 🏆 GitHub Trophies:
@@ -83,9 +77,14 @@ Thank you for reading !!!
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ttphat204&theme=radical" alt="GitHub Profile Summary" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ttphat204&layout=compact&theme=radical" alt="Most Used Languages" />
+</p>
+
 ---
 
 ## ✨ Fun Fact  
+
 > "Programming is the art of turning thoughts into reality, one line at a time."
 
 <p align="center"> <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" alt="Coding" /> </p>
