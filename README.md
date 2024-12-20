@@ -7,7 +7,7 @@
 - 🔭 Currently exploring **Next.js, GSAP, Three.js, and Redis**.
 - 📫 Reach me at **trantanphat08012004@gmail.com**.
 
-
+---
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Crafting+dreams+into+reality.;One+pixel+at+a+time." alt="Typing SVG" />
