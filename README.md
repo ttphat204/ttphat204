@@ -85,8 +85,8 @@ Thank you for reading !!!
 
 ---
 
-## 🛠️ Projects:
+## ✨ Fun Fact  
+> "Programming is the art of turning thoughts into reality, one line at a time."
 
-### [Frontend and Backend for an Emart Website]
-- **Technologies:** ReactJS, MongoDB, Express, NodeJS
-- **Description:** A comprehensive platform for managing sales, including product management, user authentication, order processing, payments, and inventory tracking.
+<p align="center"> <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" alt="Coding" /> </p>
+---
