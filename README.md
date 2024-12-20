@@ -25,7 +25,7 @@ Thank you for reading !!!
 
 <p align="center">
   <a href="https://www.facebook.com/phat.tran.58152559/">
-    <img src="https://img.icons8.com/color/48/000000/facebook.png" alt="Facebook" />
+    <img src="https://img.icons8.com/fluency/48/000000/facebook-new.png" alt="Facebook" />
   </a>
   <a href="https://leetcode.com/u/TranTanPhat/">
     <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png" alt="LeetCode" />
