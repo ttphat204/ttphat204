@@ -10,8 +10,9 @@ Thank you for reading !!!
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Hi+I'm+Tấn+Phát;Turning+coffee+into+code;One+bug+at+a+time." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Hi+I'm+Tấn+Phát;I'm+a+passionate+Frontend+Developer+from+Vietnam;Turning+coffee+into+code+one+bug+at+a+time;Creating+digital+experiences+that+inspire+and+delight." alt="Typing SVG" />
 </p>
+
 
 
 <p align="center">
