@@ -2,9 +2,10 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ttphat204&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
+
 - 🎯 My goal is to become a skilled **Software Developer** who builds innovative and impactful solutions.
-- 🔭 Currently exploring **Next.js, GSAP, Three.js, and Redis**
-- 📫 Reach me at **trantanphat08012004@gmail.com**
+- 🔭 Currently exploring **Next.js, GSAP, Three.js, and Redis**.
+- 📫 Reach me at **trantanphat08012004@gmail.com**.
 
 
 
