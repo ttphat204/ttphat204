@@ -1,14 +1,12 @@
-# Hi there 👋, I'm **Tan Phat**  
-### Passionate Frontend Developer from Vietnam 🌍
-
-- 🌟 **Innovating one line of code at a time.**
-- 🔭 Currently exploring **Next.js, GSAP, Three.js, and Redis**
-- 💬 Ask me about **React, Redux Toolkit**
-- 📫 Reach me at **trantanphat08012004@gmail.com**
-
+# 🌟 About Me
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ttphat204&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
+- 🎯 My goal is to become a skilled **Software Developer** who builds innovative and impactful solutions.
+- 🔭 Currently exploring **Next.js, GSAP, Three.js, and Redis**
+- 📫 Reach me at **trantanphat08012004@gmail.com**
+
+
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Crafting+dreams+into+reality.;One+pixel+at+a+time." alt="Typing SVG" />
