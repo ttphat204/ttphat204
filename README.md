@@ -6,12 +6,13 @@
 - 🎯 My goal is to become a skilled **Software Developer** who builds innovative and impactful solutions.
 - 🔭 Currently exploring **Next.js, GSAP, Three.js, and Redis**.
 - 📫 Reach me at **trantanphat08012004@gmail.com**.
-
+Thank you for reading !!!
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Crafting+dreams+into+reality.;One+pixel+at+a+time." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Hi+I'm+Tấn+Phát;Turning+coffee+into+code;One+bug+at+a+time." alt="Typing SVG" />
 </p>
+
 
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnE5Yjl1aXkzc3UydGJvNXd5OTg1ZzEwNW5nbjh1ZmtuaGJkbHhuYyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/2IudUHdI075HL02Pkk/giphy.gif" />
