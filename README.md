@@ -78,8 +78,8 @@ Thank you for reading !!!
 ## 📊 GitHub Stats:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ttphat204&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ttphat204&theme=radical" alt="GitHub Streak" />
+  <br/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ttphat204&theme=radical" alt="GitHub Profile Summary" />
 </p>
 
