@@ -43,7 +43,7 @@ Thank you for reading !!!
 
 ### Backend Development
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,redis,firebase,prisma" alt="Backend Development" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" alt="Backend Development" />
 </p>
 
 ### Tools and Platforms
