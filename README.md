@@ -63,16 +63,22 @@
 
 ## 🏆 GitHub Trophies:
 
-<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=ttphat204&theme=onedark&no-frame=true&column=7&margin-w=5&margin-h=5" alt="GitHub Trophies" /> </p>
+<p align="center"> 
+  <img src="https://github-profile-trophy.vercel.app/?username=ttphat204&theme=onedark&no-frame=true&column=6&margin-w=5&margin-h=5" alt="GitHub Trophies" />
+</p>
 
 ---
 
 ## 📊 GitHub Stats:
 
-<p align="center"> <!-- Streak Stats --> <img src="https://github-readme-streak-stats.herokuapp.com/?user=ttphat204&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" /> <br/> <!-- Profile Summary --> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ttphat204&theme=github_dark" alt="GitHub Profile Summary" /> </p> <p align="center"> <!-- Top Languages --> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ttphat204&layout=compact&theme=github_dark&hide_border=true" alt="Most Used Languages" /> </p>
+<p align="center"> 
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ttphat204&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" /> 
+  <br/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ttphat204&theme=github_dark" alt="GitHub Profile Summary" />
+</p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ttphat204&layout=compact&theme=radical" alt="Most Used Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ttphat204&layout=compact&theme=github_dark&hide_border=true" alt="Most Used Languages" />
 </p>
 
 ---
